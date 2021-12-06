@@ -9,18 +9,20 @@
     Making content Pretty - CSS
     Add some Interactivity - JavaScript
 
+
 ## Authors
 
     @shrutiiaroraaa
     
    
-  ## Contributing
+ ## Contributing
 
 If you are following the 100 Days and want to add your own repository here – great! Please fork this repository, change this README to add your links, then open a pull request.
 
-Day #0: Before we start
 
-Before we start our daily progress, let me give you the tools & resources which I will be using/follwing for the daily learning during the whole challenge.
+## Day #0: Before we start
+
+Before we start our daily progress, let me give you the tools & resources which is required for  daily learning during the whole challenge.
 
 Tools:
 Code Editor: Visual Studio Code
@@ -28,10 +30,8 @@ Browser: Google Chrome
 
 Resources
 
-    The Web Developer Bootcamp 2021 - Colt Steele | Udemy
-
-    Learn Web Development | MDN Docs
+    Web Development Course - Apna College | Youtube
 
     Responsive Web Design | freecodecamp
 
-    The Odin Project
+    
