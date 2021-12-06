@@ -2,14 +2,14 @@
 
  Ultimate-WebDevelopment-Guide is your perfect companion to take the 100 days of code challenge and be successful. 
 
-##Roadmap
+## Roadmap
 
     Intoduction to Web
     Laying out the content - HTML
     Making content Pretty - CSS
     Add some Interactivity - JavaScript
 
-##Authors
+## Authors
 
     @shrutiiaroraaa
     
