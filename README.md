@@ -12,6 +12,11 @@ Roadmap
 Authors
 
     @shrutiiaroraaa
+    
+   
+  ## Contributing
+
+If you are following the 100 Days and want to add your own repository here – great! Please fork this repository, change this README to add your links, then open a pull request.
 
 Day #0: Before we start
 
