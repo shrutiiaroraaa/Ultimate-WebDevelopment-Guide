@@ -40,48 +40,48 @@ Browser: Google Chrome
 ## Day #1: Introduction
 
 What is a Website? <br>
-Difference between a static and Dynamic Website .
-Intro to HTML, CSS and Javascript
-What do you mean by domain name ?
-What do you mean by Hosting?
+Difference between a static and Dynamic Website. <br>
+Intro to HTML, CSS and Javascript <br>
+What do you mean by domain name ? <br>
+What do you mean by Hosting? <br>
 
 ## Day #2: Step 1 to HTML
 
-What is HTML?
-What are Tags in HTML?
-What are Elements in HTML?
-Nesting of Elements .
-What are attributes in HTML?
-Different general Purpose Attributes :
-  a) id
-  b)Class
+What is HTML? <br>
+What are Tags in HTML? <br>
+What are Elements in HTML? <br>
+Nesting of Elements . <br>
+What are attributes in HTML? <br>
+Different general Purpose Attributes : <br>
+  a) id <br>
+  b)Class <br>
 
 ## Day #3: Step 3 to HTML 
 
-HTML Document Structure 
-Some Important Elements in HTML 
-  a) Heading Element (<h1> to <h6>)
-  b) Paragraph Element (<p>)
-  c) Line Break Tag  (<br>)
-  d) Horizontal rule (<hr>)
-Entities in HTML
-  a) Reserved Characters
-  b) Special characters
-  c) Emojis
-  d) Symbols
+HTML Document Structure <br>
+Some Important Elements in HTML <br>
+  a) Heading Element (<h1> to <h6>) <br>
+  b) Paragraph Element (<p>) <br>
+  c) Line Break Tag  (<br>) <br>
+  d) Horizontal rule (<hr>) <br>
+Entities in HTML  <br>
+  a) Reserved Characters <br>
+  b) Special characters <br>
+  c) Emojis <br>
+  d) Symbols <br>
  
  
  ## Day #4: Step 4 to HTML 
  
 
-Comments in HTML
-Some other tags in HTML
-  a) Bold (<b>....</b>)
-  b) Iatlic (<i>....<i>)
-  c) Emphasize (<em>....</em>)
-  d) Superscript (<sup>....</sup>) 
-  e) Small (<small>....</small>)
-  f) Subscript (<sub>....</sub>)
- List Tag (<li>....</li>)
-Types of Lists 
-  a) Ordered List (<ol>....</ol>)
+Comments in HTML <br>
+Some other tags in HTML <br>
+  a) Bold (<b>....</b>) <br>
+  b) Iatlic (<i>....<i>) <br>
+  c) Emphasize (<em>....</em>) <br>
+  d) Superscript (<sup>....</sup>) <br>
+  e) Small (<small>....</small>) <br>
+  f) Subscript (<sub>....</sub>) <br>
+ List Tag (<li>....</li>) <br>
+Types of Lists  <br>
+  a) Ordered List (<ol>....</ol>) <br>
