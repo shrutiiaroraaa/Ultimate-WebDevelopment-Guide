@@ -39,7 +39,7 @@ Browser: Google Chrome
 
 ## Day #1: Introduction
 
-What is a Website?
+What is a Website? <br>
 Difference between a static and Dynamic Website .
 Intro to HTML, CSS and Javascript
 What do you mean by domain name ?
