@@ -39,49 +39,49 @@ Browser: Google Chrome
 
 ## Day #1: Introduction
 
-✅ What is a Website? <br>
-✅ Difference between a static and Dynamic Website. <br>
-✅ Intro to HTML, CSS and Javascript <br>
-✅ What do you mean by domain name ? <br>
-✅ What do you mean by Hosting? <br>
+* What is a Website? <br>
+* Difference between a static and Dynamic Website. <br>
+* Intro to HTML, CSS and Javascript <br>
+* What do you mean by domain name ? <br>
+* What do you mean by Hosting? <br>
 
 ## Day #2: Step 1 to HTML
 
-What is HTML? <br>
-What are Tags in HTML? <br>
-What are Elements in HTML? <br>
-Nesting of Elements . <br>
-What are attributes in HTML? <br>
-Different general Purpose Attributes : <br>
-  a) id <br>
-  b)Class <br>
+* What is HTML? <br>
+* What are Tags in HTML? <br>
+* What are Elements in HTML? <br>
+* Nesting of Elements . <br>
+* What are attributes in HTML? <br>
+* Different general Purpose Attributes : <br>
+  &nbsp; a) id <br>
+ &nbsp;  b)Class <br>
 
 ## Day #3: Step 3 to HTML 
 
-HTML Document Structure <br>
-Some Important Elements in HTML <br>
-  a) Heading Element (<h1> to <h6>) <br>
-  b) Paragraph Element (<p>) <br>
-  c) Line Break Tag  (<br>) <br>
-  d) Horizontal rule (<hr>) <br>
-Entities in HTML  <br>
-  a) Reserved Characters <br>
-  b) Special characters <br>
-  c) Emojis <br>
-  d) Symbols <br>
+* HTML Document Structure <br>
+* Some Important Elements in HTML <br>
+  &nbsp; a) Heading Element  <br>
+  &nbsp; b) Paragraph Element  <br>
+  &nbsp; c) Line Break Tag   <br>
+  &nbsp; d) Horizontal rule  <br>
+* Entities in HTML  <br>
+  &nbsp; a) Reserved Characters <br>
+  &nbsp; b) Special characters <br>
+  &nbsp; c) Emojis <br>
+  &nbsp; d) Symbols <br>
  
  
  ## Day #4: Step 4 to HTML 
  
 
-Comments in HTML <br>
-Some other tags in HTML <br>
-  a) Bold (<b>....</b>) <br>
-  b) Iatlic (<i>....<i>) <br>
-  c) Emphasize (<em>....</em>) <br>
-  d) Superscript (<sup>....</sup>) <br>
-  e) Small (<small>....</small>) <br>
-  f) Subscript (<sub>....</sub>) <br>
- List Tag (<li>....</li>) <br>
-Types of Lists  <br>
-  a) Ordered List (<ol>....</ol>) <br>
+* Comments in HTML <br>
+* Some other tags in HTML <br>
+  a) Bold  <br>
+  b) Iatlic  <br>
+  c) Emphasize  <br>
+  d) Superscript  <br>
+  e) Small  <br>
+  f) Subscript  <br>
+* List Tag  <br>
+* Types of Lists  <br>
+  a) Ordered List  <br>
