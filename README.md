@@ -76,12 +76,50 @@ Browser: Google Chrome
 
 * Comments in HTML <br>
 * Some other tags in HTML <br>
-  a) Bold  <br>
-  b) Iatlic  <br>
-  c) Emphasize  <br>
-  d) Superscript  <br>
-  e) Small  <br>
-  f) Subscript  <br>
+  &nbsp; a) Bold  <br>
+  &nbsp; b) Iatlic  <br>
+  &nbsp; c) Emphasize  <br>
+  &nbsp; d) Superscript  <br>
+  &nbsp; e) Small  <br>
+  &nbsp; f) Subscript  <br>
 * List Tag  <br>
 * Types of Lists  <br>
-  a) Ordered List  <br>
+  &nbsp; a) Ordered List  <br>
+  &nbsp; b) Unordered List <br>
+* Nesting Of Lists
+
+ ## Day #5: Step 5 to HTML
+ 
+* Hyper Link tag <br>
+  &nbsp; a) Syntax <br>
+  &nbsp; b) Definition Of URL <br>
+  &nbsp; c)Types Of URL <br>
+   &nbsp; &nbsp;            i)  Absolute URL <br>
+   &nbsp; &nbsp;            ii) Relative URL <br>
+* Image Element <br>
+  &nbsp; a)   src <br>
+  &nbsp; b)  width <br>
+  &nbsp; c) alt <br>
+* Video Element <br>
+  &nbsp; a) src <br>
+  &nbsp; b) width <br>
+  &nbsp; c) autoplay <br>
+  &nbsp; d) Muted attribute <br>
+    
+
+ ## Day #6: Step 6 to HTML
+ 
+ * iFrame Element <br>
+ * Table Element <br>
+  &nbsp; a) Syntax <br>
+  &nbsp; b) tr tag <br>
+  &nbsp; c) Attributes Of tr <br> 
+  &nbsp; d)thead tag <br>
+  &nbsp; e)tbody tag <br>
+  &nbsp; f)tfoot tag <br>
+ * Web Form <br>
+ a) Form tag <br>
+ b) Elements in Form <br>
+ 1) Input <br>
+ 2) TextArea <br>
+
