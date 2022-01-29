@@ -118,8 +118,73 @@ Browser: Google Chrome
   &nbsp; e)tbody tag <br>
   &nbsp; f)tfoot tag <br>
  * Web Form <br>
- a) Form tag <br>
- b) Elements in Form <br>
- 1) Input <br>
- 2) TextArea <br>
+ &nbsp; a) Form tag <br>
+ &nbsp; b) Elements in Form <br>
+ &nbsp; &nbsp; 1) Input <br>
+ &nbsp; &nbsp; 2) TextArea <br>
+ 
+  ## Day #7: Step 7 to HTML
+  
+  * Structure Of A Website <br>
+  * Difference Between Semantic and Non-semantic Tags. <br>
+  * Div and Span Tag <br>
+
+ ## Day #8: Step 8 to HTML
+ 
+ * Practice Making the HTML Part of a Website 
+
+ ## Day #9: Step 1 to CSS
+ 
+ * Introduction To CSS
+ * Syntax Of CSS
+ * How to link CSS in HTML
+  &nbsp; a)inline
+  &nbsp; b)internally
+  &nbsp; c)externally
+  
+  
+ ## Day #10: Step 2 to CSS
+ 
+ * Selectors In CSS
+ a) Combined Selectors <br>
+ b) Type Selectors <br>
+ c) Class Selectors <br>
+ d) Attribute Selectors <br>
+ e) Pseudo Class Selectors <br>
+ f) Pseudo Element Selectors <br>
+ g) Combinator Selectors <br>
+ h) Universal Selectors
+ 
+ 
+ ## Day #11: Step 3 to CSS
+ 
+ * Properties Of CSS
+ a) Colors
+ b) Background Image
+ c) Fonts in CSS
+ i)   font-style
+ ii)  font-size
+ iii) font-weight
+ 
+  ## Day #12: Step 4 to CSS
+  
+   * Properties Of CSS
+   d)Formatting Text with CSS
+   i)   text-color
+   ii)  text-alignment
+   iii) text-decoration
+   iv)  text-transform
+   v)   text-indentataion
+
+  
+  
+ 
+ 
+ 
+  
+  
+
+
+ 
+ 
 
