@@ -218,11 +218,57 @@ Browser: Google Chrome
 
  ## Day #18: Step 10 to CSS
 
+ * Styling Forms in CSS <br>
  * Important Keyword <br>
+
+## Day #19: Step 11 to CSS
+
+* Debugging in CSS <br>
+* Debugging tools for CSS <br>
+* Clip Path Property in CSS <br>
+
+## Day #20: Step 12 to CSS
+
+* Box-Sizing property in CSS <br>
+* z-index property in CSS <br>
+
+## Day #21: Step 13 to CSS
+
+* Responsiveness in CSS <br>
+
+## Day #22: Step 14 to CSS
+
+*  CSS Layouts <br>
+*  Basic Document Flow <br>
+
+## Day #23: Step 15 to CSS
+
+*  Flexbox <br>
+*  Grid <br>
+
+## Day #24: Step 16 to CSS
+
+*  Flexbox V/S Grid Layout <br>
+
+## Day #25: Step 17 to CSS
+
+
+
+
+## Day #26: Step 18 to CSS
    
  
  
-  
+## Day #27: Step 1 to JS
+
+*  Introduction to Javascript <br>
+*  Why Javascript is so popular ? <br>
+
+## Day #28: Step 2 to JS
+
+*  Hello World in JS <br>
+*  Javascript Alerts <br>
+
   
   
   
